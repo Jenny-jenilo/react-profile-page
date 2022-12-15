@@ -58,7 +58,7 @@ function App() {
                 <td>Lotse </td>
               </tr>
               <tr>
-                <td>Mail Address</td>
+                <td>Email Address</td>
                 <td>delalilotse@gmail.com </td>
               </tr>
               <tr>
